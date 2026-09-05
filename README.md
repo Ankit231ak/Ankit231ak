@@ -4,10 +4,6 @@
   <img alt="Ankit231ak's GitHub profile" src="https://raw.githubusercontent.com/Ankit231ak/Ankit231ak/main/dark_mode.svg" />
 </picture>
 
-## Hi there 👋
-
-## Hi there 👋
-
 <!--
 **Ankit231ak/Ankit231ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
