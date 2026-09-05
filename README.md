@@ -4,6 +4,10 @@
   <img alt="Ankit231ak's GitHub profile" src="https://raw.githubusercontent.com/Ankit231ak/Ankit231ak/main/dark_mode.svg" />
 </picture>
 
+# Hello, I'm Ankit 👋
+
+I'm a Computer Science student building full-stack projects with Java, Python, and Web technologies (MySQL, JavaScript, TypeScript). I'm passionate about learning, open-source, and I'm seeking internship opportunities to grow and contribute.
+
 <!--
 **Ankit231ak/Ankit231ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
