@@ -6,7 +6,7 @@
 
 # Hello, I'm Ankit 👋
 
-I'm a Computer Science student building full-stack projects with Java, Python, and Web technologies (MySQL, JavaScript, TypeScript). I'm passionate about learning, open-source, and I'm seeking internship opportunities to grow and contribute.
+I'm a Computer Science student building full-stack projects with Java, Python, Web technologies (MySQL, JavaScript, TypeScript), and DevOps. I'm passionate about learning, open-source, and I'm seeking internship opportunities to grow and contribute.
 
 <!--
 **Ankit231ak/Ankit231ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
